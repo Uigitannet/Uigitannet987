@@ -1,0 +1,26 @@
+{
+  "name": "Ian Brady",
+  "age": 45,
+  "address": {
+    "street": "Muejo Avenue",
+    "city": "Migugra",
+    "state": "AK",
+    "zip": "35755"
+  },
+  "contact": {
+    "phone": "(203) 994-7023",
+    "servicePhone": "800275965"
+  },
+  "birthday": "1991-09-16T06:19:37.296Z",
+  "ip": "223.191.178.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Pojsaz uma aki roma oniru sub mefeni iziopal elida ralnur hiciwauhi panassaj nor nojpemked dulifi. Bugedsid guv jirubita ja wi zaw walurnop reijsu tagne buti wa ugobazfuh fi lubi. Liile hasuziti wum pe ko bolerho wanpup nukpi tek iwi nejiiwe bivguj zu vuduwa haz bifagon kobi.",
+    "bio": "Za ha sioru nuktuf ahubikeja gajhikah te wulalav opidajid be anrenje kiwfe. Wobbom rejbuv ohwodub cu gocos gecjidi ruswag map zaid wi wewibak gizzotanu upjiej kivot pe ederowzag esse nohofoca. Cet onovem wunicfov cuzo movin nobo oke lamo uruzot uclohin sap fi rabulo gaso udu. Vi ga kovehel zela libon etifu kac kofebni fumafot zofar zuksujzir pu ribra mujida fudi fowa. Vejtir uw wuafibaj jopgat weawuhot jufukez okgiffog fuw seek ov ebamami oto ih uzbusoc caf ri. Okzoso vissa pohutot ubcacrob van maccuj ifi geciah ci mewo rukbaw da azzeus necco gikuca fev vetuize hozil."
+  },
+  "apiKey": "77a4ac3bba1652435a9e8ac5b2dab9eb4a7d645f78ae790105f9c9c804be561c",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
