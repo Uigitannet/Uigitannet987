@@ -1,0 +1,26 @@
+{
+  "name": "Chris Wallace",
+  "age": 45,
+  "address": {
+    "street": "Sogeg Road",
+    "city": "Inmubre",
+    "state": "AR",
+    "zip": "07902"
+  },
+  "contact": {
+    "phone": "(416) 361-3453",
+    "servicePhone": "800557262"
+  },
+  "birthday": "1982-05-20T13:30:28.806Z",
+  "ip": "82.158.32.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Hovispi vuce dutco edkuwku baosauba kaevo doifebeh kev asu du hirje iresi muuzara de vudpur kusa wohul. Uj gokob daz muw huesigom dib nignum ciznej baveralu nuznar fudjoal odohinpu datebki. Huwig bo ri pu temarpet dun nuomemez fevi poguhom amzege pu pofwolel ojazek repik. Wocipnen jeriv ludaova ha po sih miwa juhezbe vog unuhim suvewdaj rulkokona hol wuw va ekamucge un. Uhezuvaf aghi dul sipho iracebnod isasahow vem kewa feuwetu su ogi pi fapisreb.",
+    "bio": "Fis maakaraz veljafkik ha iloper pacjo gurdo etuire jaca co le afim wasdit miv dehoju cipum egiri su. Ohafoc lomvauge tosiwad ibubukej huhjap wudba okihase atasaho okka awidi lerase rib nakif nogom ababazup. Hu hokca fumibzik zitob sasiw maeji pi igluwiz faze nahuip uwha gocijiw babu hike lionte etnaeb. Gihevoc kuz jev cezjihuj niv me lonva izo jiccatbuh fu daspacicu haet fot gozcef no. Egazanas ar mujbab eze maf sanceobe wi fisbuggak nobpueg peega toub nilji."
+  },
+  "apiKey": "388e670d08b9956bf25c955a53b903684bca12ea226b793b267d03145a353231",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
