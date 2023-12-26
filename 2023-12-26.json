@@ -1,0 +1,26 @@
+{
+  "name": "Betty Mason",
+  "age": 28,
+  "address": {
+    "street": "Zeda Plaza",
+    "city": "Nodhomamo",
+    "state": "VA",
+    "zip": "64241"
+  },
+  "contact": {
+    "phone": "(228) 286-1651",
+    "servicePhone": "800949885"
+  },
+  "birthday": "2003-02-11T08:07:52.859Z",
+  "ip": "84.154.26.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Ve nanil jopamov wota lo roraw padoj dohloev la jubokec toh wuj ja sozwa wa vaelhu asgaw oba. So mi ce zujjowgi ar gudok vukramas vemivkef woba jijugric pi lipor ru waselofi zoomam. Of vul hidpe om fanigruv dol illev so bu okifi tunagho es amuhan wu loemmaw viglimve lezosip.",
+    "bio": "Ze co jogahfat le adrucam osuno goli sidta ni vivaj kohwezah ocfa fus binheap fasicre ecutude posuwadar. Nobla se wabvizov ijtivi otwugen wik navenuj mahvokod kojcigi sonzel vim gofa eda gomjomnol. Dekuse zu obobe gow wuk iveonauve vamura si fesrovzub lasji va as seci oblu vu maftukjig tu ovondot. Pu dacbuaj kisuz uzoacuf tapelaka suwzac agducjid icalaj comipje hednibab kachoras fujitori cuh ev."
+  },
+  "apiKey": "99e0005b6f6be7ba3ee9dda81e0d60073a3dacc1270c728937e678eb30fb51b8",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
