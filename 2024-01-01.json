@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Waters",
+  "age": 56,
+  "address": {
+    "street": "Zobun Turnpike",
+    "city": "Baesiibo",
+    "state": "WV",
+    "zip": "49645"
+  },
+  "contact": {
+    "phone": "(415) 552-5436",
+    "servicePhone": "800119868"
+  },
+  "birthday": "1997-10-25T07:56:57.140Z",
+  "ip": "79.131.243.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Ijeju ubwi zovej iralon abo juc bad ze bugwe diis wu pom iho. Vi ewoci imepcac duvnavewe ric munwe pinmioh nanab cisohvo sasujulo ne tajnu ockipot. Abwu ijipoz mucni wefo bolub uvdavi bab hatusjo gaode vel surmo pof inpev hej udiozu. In vimvuzlo fudham biofaak bisomi ebtihrop cu lo hadfec nif toseribe ajiwis on ov ukoaz maj cewwi. Cezutte pe gurju juw hacjaog de mabi murodad cuvoncu wetu tutunud wevwen iwojufsed leskad parut mulkiw pibpijwa.",
+    "bio": "Hulubifi mi faes lonik eduavuoju wun def veb codrupe mode fafat uze. Valigar ozi nulezoli je vagivzo kamu rawhe en nepih piscu rushor uwavuzno fowka ud oc miniw iga hawdaog. Juzuabi deismi azuso gi un hifiimu lok wuh wicoz ipfoh ikeso pebhoh sapog cafik filzat hiv. Touw gavogasu ti ub iziwas he ka nekwioro seccutu kasoni buwnew wenaz dabgov daip ginhiscet padlaru."
+  },
+  "apiKey": "3492760ca0eb2c12d24e3c0c945abdfef324462fd3a0252c4a40f3f466a2f6b8",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
