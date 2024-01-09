@@ -1,0 +1,26 @@
+{
+  "name": "Mary Santos",
+  "age": 29,
+  "address": {
+    "street": "Tezu Grove",
+    "city": "Fimahvel",
+    "state": "NJ",
+    "zip": "74613"
+  },
+  "contact": {
+    "phone": "(634) 841-9520",
+    "servicePhone": "800939934"
+  },
+  "birthday": "1976-02-08T01:55:13.497Z",
+  "ip": "126.83.173.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Caj zehuvab jikamubuz aphihuza bok cacvo ri civ na marun ramtowtak geperkuw heb ja. Lo fufno lahleco punibut as vawekoeta jop darod regwuk afegagi gekgub fib. On jop tidsenfaj uwetoiv wapi uciri abeori pofjik iru ziamdi ju na do vezle taj. Jumsinun aduvuh raz ranged rujzefiv mugen zitga do odalozid we ulbitzet sigod.",
+    "bio": "Bubipbu pev hec pocme womub po ogoatcop hauho bokoh avu izi adimipa zilcur diiho wumki. Ada fabef sipe lupuva os ka fef ce fomi co nu pesnota jaboika jewfis amdamwif ej. Su zozumli lutohe afdize colutzed utojazo diehpom ta redgasocu cop okifu ha nuvkumaf mitoul pab kadizu. Embekiz emumizi tadov vo tah nob bi ajdujha iro kajin siuh pog. Secunu bidce uf sube bojsehoz ehnokbom hal carevce ite jivlafmil tegegod eg derig kema wub wo zad huz. Caf iticolo culzu co vas wimwore ze hu ej feuduve ve odooh lig sejso pa."
+  },
+  "apiKey": "b773dbd7841e39cf14ec4c5bd3a4aed1aa05db142bbb05d8515708f3490f3096",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
