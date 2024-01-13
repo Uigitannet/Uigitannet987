@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Moore",
+  "age": 43,
+  "address": {
+    "street": "Cokcir View",
+    "city": "Hoevbo",
+    "state": "NH",
+    "zip": "29192"
+  },
+  "contact": {
+    "phone": "(645) 339-3075",
+    "servicePhone": "800358638"
+  },
+  "birthday": "1986-10-19T19:44:26.712Z",
+  "ip": "37.234.254.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Kalkis senocwep ratwac kudcev bojunvab heuwsi feib utwuzif teztuzi eburobcug webuluv ogcihuk ciwsazru birrin vesirbo vuttaako kavoldu. Ibruwe zege ma utzapam jiivi taekiedo am tezemkit wij cohzu wu geugeweh opedo. Ecaheta zivko seg ilaewozos ecimo gugon naoj kamizeli ujdub pelwukeg na ugdupbus gi koli.",
+    "bio": "Dosi ku kihuh de womecdu uzvud waumi ujjechar otwi ketwu cahjafi gozobwik wa so. Li luz lucro jacin tucdivi tugesduh caile peluzowa paf pegpimu oc mufi. Usihe uziel erpukku hejpo obiiwoisa zojov ipamoji fo sage jobal hubeul pa vogbac."
+  },
+  "apiKey": "112b5f9b71456794167e8820ce620cae2dc51baa64ad7d4c18fe9671140f9eb5",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
