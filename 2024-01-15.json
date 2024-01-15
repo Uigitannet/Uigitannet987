@@ -1,0 +1,26 @@
+{
+  "name": "Nora Stanley",
+  "age": 59,
+  "address": {
+    "street": "Jopan Highway",
+    "city": "Wievwi",
+    "state": "VA",
+    "zip": "00615"
+  },
+  "contact": {
+    "phone": "(947) 987-2923",
+    "servicePhone": "800932285"
+  },
+  "birthday": "1985-04-28T19:43:19.903Z",
+  "ip": "80.83.205.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Debiwhol uroehki dijimvet ju zuuf wac neple go bir vo ha lobeshu. Ma mom ge he camvucoz fehverhop um riaphib gakehwu ih zir weba hehotkew vufacobu va guz wungov. Ho ga laj taihge ni ne hibvec vu ji tid bocaf ipori cobit mavi achu.",
+    "bio": "Cenfuem legaw ow zuvlozu ideiwari tezuh leuredop rav pelusa divalse tacak fiso nihdap. Sobin pifipiito jec rop votrese evupun jollop fiemjop deogav wez uwo fatzi nespijo. Agmiwhu afu zik waredzo zuwiaj diabe sujroeku ece ki wo aliveaw utsazu dovzuko lo ka je safem jaru."
+  },
+  "apiKey": "66a79c86e46526572cb63a876939bed667e448fcd3ed59c1151e2e4900356c87",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
