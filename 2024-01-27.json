@@ -1,0 +1,26 @@
+{
+  "name": "Garrett Estrada",
+  "age": 54,
+  "address": {
+    "street": "Cohnu Grove",
+    "city": "Riamone",
+    "state": "AK",
+    "zip": "04770"
+  },
+  "contact": {
+    "phone": "(424) 258-4426",
+    "servicePhone": "800363363"
+  },
+  "birthday": "1972-02-04T21:47:11.262Z",
+  "ip": "42.130.149.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Coga elaij bi evwofha sekir dijzaw hat mi arcac lo wi sawidzo. Pim zuppulce idi mos rebga kez poz ceisgo deptat liruw rokiwem giglovek edi wiagefih uzupar lejup hi lof. Ke ajuwogi naha etebedun heb nac zilfo fadon talfol fo mokneha aze.",
+    "bio": "Rozu otasof lebodbed zacijed osuve nadi sop pajo buw wu du gimeos. Ta acudepoj fincoba ifadovsed fagitaz wil didapdi ci kun zesnij roprazkoz joiz ow etifomid. Jihbumheg poktu kakutna obidefa gidaj iccu gatti fubuavo vaknosu nacku ganda cuvohah ijajiete lozojne horuzu omdul cozimjep."
+  },
+  "apiKey": "55bba136f920735e3b1ab03fffae96b62e1af1e143c19697b23faa187be867cf",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
