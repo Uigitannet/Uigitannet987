@@ -1,0 +1,26 @@
+{
+  "name": "Harriett Obrien",
+  "age": 42,
+  "address": {
+    "street": "Jebek Center",
+    "city": "Zirisak",
+    "state": "CT",
+    "zip": "55529"
+  },
+  "contact": {
+    "phone": "(960) 670-8123",
+    "servicePhone": "800257428"
+  },
+  "birthday": "1998-10-14T04:55:52.021Z",
+  "ip": "193.248.178.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuolhu puci zesijize rarev zivnuf nuzve dompa guvem bucurikip gu uhgetom lihun zutze topawlan sa hormi moju. Baj nev eletej im daju moshu nuezu fup kidhofot bi dozef ki novofhuz lu so cun malpi. Biita tuggehato cefehziz noflubur wocmomil tus maokifo mij wu vic jofsuz iteducbuk obro lita le.",
+    "bio": "Wesisza tembalpu oselaike owazakhe maz kazvoju ahpuber nuciwer ha zecdifko upnuome fimale udeha. Uwpilew kalaevu vidon id be sow kut kacoj atu werjofa vafwij jedwi afkin. Cediehe wihdevoho inidul vihisu me miuziro koajhi udru kojsew kezavuj lojaku lunsis mobeuji uk osu vijrepke luged."
+  },
+  "apiKey": "778e7a2c91df1d0b52e911799e753993ad6a92de2334fa916978b0bd2fc036b6",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
