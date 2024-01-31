@@ -1,0 +1,26 @@
+{
+  "name": "Elva Chambers",
+  "age": 23,
+  "address": {
+    "street": "Vumtuh Place",
+    "city": "Ramija",
+    "state": "MT",
+    "zip": "59267"
+  },
+  "contact": {
+    "phone": "(370) 353-7684",
+    "servicePhone": "800884695"
+  },
+  "birthday": "1965-12-27T00:03:13.324Z",
+  "ip": "123.139.33.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Golu sij duvizon jisaduv zafuti sako urcam zuw kaz dosigkov perwen ajeer. Honetapod firgagad aka hu duzacel ikieje upiwuhzub der tewees mooki wedkofa ennejce di. Uz upjop joasdik ozvalef pawe julevu puf cuigrul doariduf gasipgaf opesumub so ru.",
+    "bio": "Apumabe acelu jezo cam vuc irac dorom nevuni owaadues bikbuzeh nite capicza di gab ku. Upto ole duzwoz diknewbow uja aci ad takep ucapikzu bujbihur lof gaknul notu. Tapemi uz imfirhem he bupsefe zual datgimu dufofdo gaw gupa agehij ziij ri omber. Isemor cud zefegicu rac vazfagib erufa nu hazi didokimom cussob lodcosa famgu esju."
+  },
+  "apiKey": "7c056751c438e631b0e06d296d1870fd8c30fb8bc93f85bbde71e2ea533003c5",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
