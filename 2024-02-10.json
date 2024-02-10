@@ -1,0 +1,26 @@
+{
+  "name": "Peter Peterson",
+  "age": 51,
+  "address": {
+    "street": "Jowe Manor",
+    "city": "Boilgup",
+    "state": "UT",
+    "zip": "21698"
+  },
+  "contact": {
+    "phone": "(677) 837-3772",
+    "servicePhone": "800168333"
+  },
+  "birthday": "1992-04-29T19:41:14.891Z",
+  "ip": "243.149.209.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Ha viodlew zisigdub ekeda ruraz zomdi vouw ciirujok pi tafkaow zadsot lemig lab lekfa zih. Ibbivmov miizowi zumasi buoramo sugelu wat najunjom curuzu ezospun eci seda ose nooh. Uwu cinfantic vij le ja zufohe reb cu lurugme wo zufvu kuba odro siw uzo vegav. Adihu namhacis ne komozkuh riwtocru mi siita uvo gor wi azeadian curir pihoak arabigsa.",
+    "bio": "Vuwus olhus mib difeb amegavive ciwso taba selmipzuf jevu ziovar sabkar co kih umohizoz wujog. Pi vaw ra onfarhit gotwomzit ebmof sewolu zu jas dekhag uvu guzoruto se afuoc uwunap pen huoha piibdoh. Suzzubnit guhbole hugofafid fampufup ahom kir big aza lurakuv sen evuule torsoh kemebifo fuslenal digo uba."
+  },
+  "apiKey": "b3fd270b8566cd8f5611a9a51bdacac8b53659aa9926af90b3cbb0be3b639d34",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
