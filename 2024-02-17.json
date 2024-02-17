@@ -1,0 +1,26 @@
+{
+  "name": "Mamie Waters",
+  "age": 37,
+  "address": {
+    "street": "Zaas Pass",
+    "city": "Bomuhog",
+    "state": "TN",
+    "zip": "15364"
+  },
+  "contact": {
+    "phone": "(758) 202-2398",
+    "servicePhone": "800737224"
+  },
+  "birthday": "1988-07-01T08:54:22.355Z",
+  "ip": "214.99.241.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Soishu dercow kesucuc jejhij pokrolfi gih loj wawdo eho wazolize kir geivdod. Her nulesu fiusaje nafgef ler nojca bo ki huum ju iztuzwo rocdichu ronahe cul wusezu ramnofsa luzod. Hiv cogas il vu if enge je pozameg gec joj kehre nehlat cuk.",
+    "bio": "Uju itavebzir dazodwo uraepaizu nuh vak huhbub babi saduk niom gegob kofmeb. Kewfom ikkop uh ne ikejoh galisis menza vipagwi hetmi fivzujhas dovme got ta epajaku. Du vazkabhit bur hugtaclol ozo peganod hafhiblom pesni diwe ujidevu jemubi gu ko newef wowjo."
+  },
+  "apiKey": "034b0dd2746e5a9b528b22a029ab16fc0c40293ccc9242139d13baa47a01d015",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
