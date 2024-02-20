@@ -1,0 +1,26 @@
+{
+  "name": "Nannie Goodman",
+  "age": 23,
+  "address": {
+    "street": "Gawpet Park",
+    "city": "Cebater",
+    "state": "IA",
+    "zip": "73510"
+  },
+  "contact": {
+    "phone": "(805) 470-1661",
+    "servicePhone": "800487114"
+  },
+  "birthday": "1974-10-25T14:34:02.161Z",
+  "ip": "179.133.10.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Jisen zi neco ofpih bagseaz ruze jalwor go rercirek biw ulu du ferol leid cu asesudivo. Rucladgab ar tad lahjabpan nov wacujmi jugadu jenahig wowi uji kap keskirta ket inugo zudpar kiwbul. Tozkucu puwocid reav hir ter no upi da azane fi zuzasoze unaji upbinto wi ijabuli puffonacu ahizilcu ga. Enezajgo cewli pipimvuj gulsopij huji anrice few lohzo jagunta teg cicnoj uthaboho sumcefor hajkowoj. Kog gucsap eto ojuwozo fom na dirdewne lumi kah ciug esa nihva zacpet. Niri zulra hogit alicu itve obiino vunjieme vuv gecofkec rerak fak mo ig sefkukiw.",
+    "bio": "Cupgupzo je ohaane ni hoj fes dulet wiisude ulanol busi geabfa dej meipa usu botig wihzumhud. Uzicek zes ruri fabuvok aja el kumuf le la su reobo lek aziezo. Rackehmo lacme bacaneh du enu ufsebi zofcavtup aduzune jisizaz ebmac is fef haneas gobeti."
+  },
+  "apiKey": "12e6f8e8082a4b5b9ca454300e35e07b471264398d39bbc6472fccd1378e6871",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
