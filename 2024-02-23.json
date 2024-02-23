@@ -1,0 +1,26 @@
+{
+  "name": "Douglas Clarke",
+  "age": 42,
+  "address": {
+    "street": "Zufno Road",
+    "city": "Vewubwak",
+    "state": "LA",
+    "zip": "29061"
+  },
+  "contact": {
+    "phone": "(567) 916-4759",
+    "servicePhone": "800964983"
+  },
+  "birthday": "2003-07-17T19:37:56.805Z",
+  "ip": "218.194.29.7",
+  "foo": "bar",
+  "profile": {
+    "about": "Haf ro uzabor owalingag raju ibhe loez ave fa abusij fiti ipegiha muz. Tuca cuvodgiw rifevi gurkaco hohe joscelco relkatca hu facimeuc mulahem ju revid cesisig kivek zicfeb bu cobuto. Udihwa von ewfi supazzeg hig peg inef giprobok hotca bimgugo opkuk ujiurcik dajopoka ogidri na gizuvi biccowus.",
+    "bio": "Di jeknihlu goeba wozu kunir apoda nimvuhaz sum dahuw gumero peuc ihid. Difehor omo ev taroz cuh ogev fiz nefvav lul su ek fi. Canefsu utega hoz upu wujab tucega higalen rapew se loz zipah ar. Ico uchom enwuw ceav lopazot ibumufho ahe kurijone jus lov cef wog reib relpevze ra."
+  },
+  "apiKey": "388ff209260bdf706ca4d19a882c30a00b835f2493d869969a19f6e4afd7b289",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
