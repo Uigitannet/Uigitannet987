@@ -1,0 +1,26 @@
+{
+  "name": "Ola Reed",
+  "age": 19,
+  "address": {
+    "street": "Ravpow Plaza",
+    "city": "Bezuki",
+    "state": "UT",
+    "zip": "12569"
+  },
+  "contact": {
+    "phone": "(247) 251-6619",
+    "servicePhone": "800815899"
+  },
+  "birthday": "1969-09-01T14:14:49.162Z",
+  "ip": "196.207.182.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Ufwe geguv dimkuruv semsot nelwalat ocej necubi men faaviras bovrep la vifup suce ral olo ha cis gu. Uwronu covemdo mur biktiesa kabuv zodikju rew li cetosoci lu sofkujbej liob tur hiuka zuljojaf. Co gu agkis fu wiroj kiud co zohha nojjeb naw uv vo.",
+    "bio": "Hijson ko weg bonwa vakogos nub dukiftaz mes sij kop akoese zopetav dihe. Lonbo wunrejuw riwuzdus kevi kuf biwis muv radfus dec wunah ijulij owpa. Colus sicorme efejif ozirog tovucu giz epa rokle zizkanbe ajocorgop su ajisu mid voba ku. Jezsiges nalrejavo na nupju himrad rah lozakam omhupnit wu reugi ku id."
+  },
+  "apiKey": "5a921e09908b979d3aabda04efc9b0479e7aa0f5c3d6b551137d4d27bd47298e",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
