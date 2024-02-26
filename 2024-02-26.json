@@ -1,0 +1,26 @@
+{
+  "name": "Hester McKinney",
+  "age": 51,
+  "address": {
+    "street": "Figo Loop",
+    "city": "Onudohi",
+    "state": "DE",
+    "zip": "83359"
+  },
+  "contact": {
+    "phone": "(946) 415-5732",
+    "servicePhone": "800868456"
+  },
+  "birthday": "2004-02-19T13:27:21.089Z",
+  "ip": "203.178.13.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Zi moreszo gaw wuzkudzuv piwulfij vizgela dawe ov gewrez hofpug ur afbu. Odo wew me oh ji ilnega hucegtid utaivow gevam ersunah buvmireb non nan sikaed. Vemad pal kaf mato jot cedesgub kab turcogri zecdojal wuc kagdur cus cuggorliz tapdijaf etisoija jejdu uwafa.",
+    "bio": "Gohvohhig ev leltin gaz guthiil vat dukeraw opesupa now tutko fup eja. Jacufo niwhop noggu mafi vutelci vefluazi pavbepnob kona lus it omagejfo jotgegsa rot jice hij. Abgumin dek sisep tis zocesvah uzata agpug wes rocsumco bam se hih. Limise piwlo usu gappo wetta tuvovu dupte fozkesub vurnotad tamtoof daz afosahvu coceg magca voz ruzaega se."
+  },
+  "apiKey": "d70d915a4bc4724b835c239f179ab7781f99f83484eb9f37a0a79c40a725bc30",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
