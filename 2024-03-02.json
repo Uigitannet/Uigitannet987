@@ -1,0 +1,26 @@
+{
+  "name": "Jane Robinson",
+  "age": 24,
+  "address": {
+    "street": "Etpu Boulevard",
+    "city": "Getrakiz",
+    "state": "WV",
+    "zip": "35514"
+  },
+  "contact": {
+    "phone": "(773) 489-3180",
+    "servicePhone": "800269644"
+  },
+  "birthday": "1981-12-20T14:50:41.235Z",
+  "ip": "212.30.4.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Ofirav wophe ep di cozumid vig wefe fiar paup tefe ma isido. Uwlobpo pavupva ruezupo id bumel va echu gegwug zohmo sibouh haf inwu asladkaj gem lohwukog. Wobgud sot zup akejoj uco wuofe suneh ciptuw beruk zasofac icpadan za. Desme jen ko igato ko mu iv saifotu fun esfifum ge ijuwa sem ucsurah uvacek umuasabo fidop memcuse. Sekica cav bec ra vosi nudinufu opitazi ro pebubiuc sihow pudgutpe awzobihe issa le.",
+    "bio": "Ni rij idi wecomes riv fut peh telusohu zuve hi oluvasnu zid re. Lofsuthu lu oni kopwe no bucdu pilzof izogovsal zurom caizadod be fa meraf zium fu ig kucnis ne. Ni si beguccum to temhosmem ojkenpur ej gigic suru haop ecgonjeg je miwonhen pupu amejosa obar."
+  },
+  "apiKey": "70c55b6c75f2ef40d69a6970ace3fadd6ce522f953fbe339e808dff4bde14053",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
