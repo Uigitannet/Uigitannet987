@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Atkins",
+  "age": 29,
+  "address": {
+    "street": "Buwa View",
+    "city": "Mawuati",
+    "state": "MA",
+    "zip": "87485"
+  },
+  "contact": {
+    "phone": "(720) 557-5805",
+    "servicePhone": "800144382"
+  },
+  "birthday": "1981-04-10T06:27:31.882Z",
+  "ip": "123.35.12.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Ebezeb jupwomce utepirof izmo aszeace jupibo mawoj wadda vi uzpuce gub tesris kugarho kologigah dagoc. Fikbute berbeaho bo fi culo up ig miwdifwi mil wimbabe do ta nih otu lomdikela saconku. Pagaz to hafuka ed wolu he tugpen eroad erinassup aceraw zof hel basuhuj amson ja li ti. Popun ameap setib ro ivi ep hotsa kucog wendudwav mam arraz loweroce uju humohok zuce. Hecoc hogute uwo imaniag neg osuracam negodu bozov ge lidoj wu ugigu fekez futracu wejveus temci ignaib ju.",
+    "bio": "Wi ofre lodedaru sek ozuca dohlawuva zal sat guzlej abezate ogeno kasu vitsu ol gur cejij. Icizu dicguk nopepos viuz hurca udise hamun ontege kengol nehe gihape nicga riwasrur suda vugmune jaek mohvu dujalci. Nu ap zo codeh muepgu wosim so tipesa ku itiurpag as zogetu si arcomtut cugozo we dav nuzcag."
+  },
+  "apiKey": "cad6f51e2bc02aada139c6d8780414a7a6c3d0e40a75bd9e93d5d576c988f448",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
