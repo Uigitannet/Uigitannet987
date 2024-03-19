@@ -1,0 +1,26 @@
+{
+  "name": "Jose Cox",
+  "age": 37,
+  "address": {
+    "street": "Akele Manor",
+    "city": "Afberej",
+    "state": "MA",
+    "zip": "51384"
+  },
+  "contact": {
+    "phone": "(760) 475-2040",
+    "servicePhone": "800195216"
+  },
+  "birthday": "1998-03-08T10:42:09.829Z",
+  "ip": "35.66.41.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Eg bi saolule pehnoete daljob ikazicbiw nedew jiz renazasec votup sigwower uluse. Latdapih hosu faebwi buico wud kaza alrop ogi ihvirdu numub pewojehub lit het ana hucako gig. Jalwig ko neprogzes ulesok pirisi atvi ucasada onhodew titfama eluubra cubilal piv mof ajo te.",
+    "bio": "Jaer mov geipo uba nejilib vo ide ne hebka za tehawam oncuza zarpiv. Cazohi hezbormi one kalej zeuke ju gibpal vikihi iviok waswoul mujbeim tew lucamof avuduwnin. Fop lok ad ire guziwer edeg nuvhead wadij owmuv nakacsi papnevan vocatleg locuh vepikig ke is imurizig cotawbug. Gimziw ranut nafcigfi towtatu vule hifmadki di ketovu lo ogajecpo rifbizej sevobpet taj faevu nonpav. Tilre jaknec zaum otuav se ozamwo revjagcuh cagut jitakafa tobadaj he lucagiwu. Tir piok wipgejsel merzapo po itosul jifbechep pineh hu giheja rebpelol agpaze. Ih tat to su cu mepi ut bofweg mo wazocleh vikodilu cawzimap hamuom figiev ugaoj."
+  },
+  "apiKey": "abacc073b3ff72d3ce0e20c9bf02572e76248098ce05434e5c87e5ddf41afa98",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
