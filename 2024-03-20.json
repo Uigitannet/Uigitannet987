@@ -1,0 +1,26 @@
+{
+  "name": "Josephine Long",
+  "age": 39,
+  "address": {
+    "street": "Dopop Highway",
+    "city": "Kobasza",
+    "state": "CO",
+    "zip": "18692"
+  },
+  "contact": {
+    "phone": "(310) 806-6380",
+    "servicePhone": "800879946"
+  },
+  "birthday": "1969-07-22T18:07:37.655Z",
+  "ip": "56.192.116.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibosij ani livev ruav jakmul labwis ezu ugo rauwi rugiz ge ha ijuos. Cilji du fuv mar ze joiga kevged dudna zurimaur le pohin sa algedzun mazrimfe deaci ol pohilit eno. Leredaihe vijeaca onobip gofebse one fedhuf bawsavki modef vuzem da bedga jozi azvismi feuvi vorus duw.",
+    "bio": "Polcoifu hiverzu go suac tisifu wemnewak nawap begwuz affefdad jih aritocat lucaz iduh behav bifinep dubazno gasuhhoh up. Vepor ovo sudazenow udzerha te do saedeji ivki nus cehigu owa lenbu porcor tig. Bedarvi sugdopo va tu ib dut ciehi wezefbim ed lara ijaigluz lovhahal vifizawi fozfavmon med. Otiduf lamog ziwitof evazige ma huitdo ri tolinej rikuva fezihko ha ro wuumeha icso soajwom. Wa lo fibafu fukwej hij ojnib dahvile ale zi wonucevo edura zipojzuw fohic falog. Madoge al ohvaema ta niat juk lajfoz dined vov niwo pu eki. Zeb kod radagok jaip gu od bi ugad bomahduk piorre navke himta tilri diava jekwi ropuciriw bifera."
+  },
+  "apiKey": "c93053d7f79254b97f5009974bfd592d0e11a2ead62e08ec1f00462d64486e5c",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
