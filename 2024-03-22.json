@@ -1,0 +1,26 @@
+{
+  "name": "Roger Craig",
+  "age": 50,
+  "address": {
+    "street": "Ririf Parkway",
+    "city": "Femalov",
+    "state": "NJ",
+    "zip": "74068"
+  },
+  "contact": {
+    "phone": "(762) 742-1409",
+    "servicePhone": "800755677"
+  },
+  "birthday": "1987-11-27T01:42:06.545Z",
+  "ip": "44.226.181.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Genbekore wotecuz fozefket ilavoat hu ho map nehaf pavupe sesged huh zu ko af. Wastozre nu epuwitek pivuz lac ri jifben cefuli amausra zehiit dase emvic ipu cis ze. Onitenu fede teh hekabbad ki diptukes odisek liw mololdub kom jec kepucic or ese selosho pamwede roz nekapof. Ocapi veudho sakib kewo du jaz anezopej woepewew soh basapmew bopeem afuza uta idu udelopce caf gi.",
+    "bio": "Nice mo at tourec taf uv bi ojeseg woce jerjin ra pu dofugti. Bu woamita vu nusbu fagsiltu nofduj pu az afupi nucfel hor kinban hizur reru fafmidho runuwij. Rabjabe okowi ojatu gore moszod gafneze we gugad wa sacnim nar watfotun."
+  },
+  "apiKey": "ea344b573920384bea6ff07b2abcd9430f495ee41cb7419a59fcd473b6f28bc2",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
