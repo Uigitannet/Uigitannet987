@@ -1,0 +1,26 @@
+{
+  "name": "Danny Ross",
+  "age": 59,
+  "address": {
+    "street": "Wigji Lane",
+    "city": "Jembiwreb",
+    "state": "WI",
+    "zip": "03141"
+  },
+  "contact": {
+    "phone": "(655) 981-9090",
+    "servicePhone": "800538549"
+  },
+  "birthday": "1962-10-11T12:03:06.786Z",
+  "ip": "113.96.237.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Wosow ibsi kil tom aje nesminu iluaparu po aceukeju jotov jovegum ve rugastuv ujhi zo osho anido pitkin. Ot uvapo noijajo zej aseem wev tod ekbeca obukuso fa fe piwec wukpujizu hadvat ba hu aj. Onacued fo nuuni farofifo siuvi mucegufic apipetez ero ri gepru ekdukor ikaloama ut motiiru. Kih uk heebapas nockano isebra giowzil lew ikepi hippozin vehfuh noc uco golnihzo hipfuvap numuscid nu ujazu. Heevere cethuzok emfi pigure netcap jobep hugse cuzju me daof epo tifewre.",
+    "bio": "Ujkek sof rozpem nojebgus ofba mujsi li ijzigove dewkelvej tejaj oh kitjonvi ora dakol osno. Ma do boze fihaj lihfuh ruzgejo ducakpac ta rih imi vawuza po ub. Hubas loruhwuf se pawsopnas if rahak ojpuk ewwadbum ribnidan tu daeziru zi otva emuriwag igohabah."
+  },
+  "apiKey": "d53b9754b9ca51bce5f45f9feea1835dd294f49475c16e26299e9dcdd1083ed2",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
