@@ -1,0 +1,26 @@
+{
+  "name": "Andre Olson",
+  "age": 20,
+  "address": {
+    "street": "Iheuta River",
+    "city": "Narjasu",
+    "state": "PA",
+    "zip": "20810"
+  },
+  "contact": {
+    "phone": "(750) 391-2606",
+    "servicePhone": "800155339"
+  },
+  "birthday": "1961-05-15T18:22:45.265Z",
+  "ip": "176.225.34.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Ucatar lov caaz uko moripso deligenu how femba puwuvije bu nejcofe taar hecif irpo ukvoos zolloreh. Laojifuz paja zicukpa ibesa doc ivkapza gor nikjen apeasi zom ug agi cifta wagini hu. Watmokke pe habaru hohezni wasjud con en bu pecogu wogziv hospeggij gimlit naef.",
+    "bio": "Vuwak el ovove menu amni mesilihif noffes somujudiz owde upvoag nabirmon aduwu genef zamo mofil tawle jehilki caemomeh. Filehe cugunnak gom kumitpa fac pudhalo vulwalos kon gesobiw ifnelok zo kin obe pufaguj hiup agsu le duiro. Wafa hutesuco sisil amusato unomare vuhnugpas okeed nif tejnuc takreh inu hivsudcit."
+  },
+  "apiKey": "3777c55b414428a969bbd509fb08026a31879fe7c7b2187926f1f2aebe29ba17",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
