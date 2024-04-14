@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Reynolds",
+  "age": 43,
+  "address": {
+    "street": "Pepdaw Court",
+    "city": "Nimefek",
+    "state": "DE",
+    "zip": "73968"
+  },
+  "contact": {
+    "phone": "(201) 224-3390",
+    "servicePhone": "800996776"
+  },
+  "birthday": "1978-08-11T22:16:11.702Z",
+  "ip": "51.133.136.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Coohaiju emama arugufga hu nalkaz riilnid zu poos haclubnih te eje cakbeja ve kecimohu iwudamku. Nujirib lazse jur ha hesevgod nu egtobmak fusi zutja sofjaznec povi obdan sowin ber evcowi tunufuhi met. Keadedem inusafor nok tocdav tuhbe wohturiw valpefiru toer biwule fad akibe po cu di. Nunpiz sa vaetolu rijuma killounu so zit niwaib radipti luv ra ariuc hofep desop not.",
+    "bio": "Siis ej conesena afude silatoola fulazig ufigup kov is vaspev fep hekus lucuvo acagaeho kubtalun. Jazuwobo akales nuwuz tumuzfa ruvcisuz jutilsim wek tifigol abdu cutpuveku do luocure ginuvta migogih. Jarmobda il novfu jerconir sur cosebfof dopid one nil wezsiw zu lanirogak la fezihug."
+  },
+  "apiKey": "6513b5e6228d05a172512b819ed6fd7b26d4133b925caebe0313bab35c4fbce2",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
