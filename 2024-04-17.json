@@ -1,0 +1,26 @@
+{
+  "name": "Joe Allen",
+  "age": 60,
+  "address": {
+    "street": "Jobi Center",
+    "city": "Ledehtir",
+    "state": "GA",
+    "zip": "31125"
+  },
+  "contact": {
+    "phone": "(461) 931-8100",
+    "servicePhone": "800135864"
+  },
+  "birthday": "1961-03-05T14:36:32.561Z",
+  "ip": "174.102.121.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuejinap nazite behara caboweur viabe esi muhiwsud mivuumi ekvos sogig nedokuh va zik ku. Umo ejdiswuh paoge fuuki fuj ocecu mernowu baarwe dop tidtan jas garfe guwlunnol soltewig. Ajer sade ajusip gi jeufu use dap sozoru rifro ovtioka favwa taholho efi vi vaut. Pumobof lazzuri vi caoc wuner ucatmu wokikaduh futjab ve moglun ilhu unsik. Jocpecfo fumsanic fidhag ki fennusgu mubkuef ehiob ude ceh sedeluce pibena ruwvu wipum wewunij rimuk.",
+    "bio": "Na ta lanzumi si ihu bojkuv itas dudmijgu pueke zitas noc borobe. Hukewanow hokjih sedfew zafa mihnoc bosgova hew hempa vardup ob dizgitep cub vir alusilel lochote to zebvamwi wupe. Mickojho je gibmaal hickepov eheunalu lilhaf ihrabmil es rizti asigubtus jirotu vojfo ilgig weawpo apocohin koh. De hofek to fog sauhpu ri movzuha na jakud pofzo wedaleh salo topwogiv cidujbiz. Gujolmuc womcug dupa ni zortiaf secha sekfow ogo vocu dul zu zug acbezes."
+  },
+  "apiKey": "83f4383bd88f0a6a5dc2d111d499a69059991fc3bf4010cce014ce88c6c016af",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
